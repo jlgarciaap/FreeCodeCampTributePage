@@ -1,0 +1,13 @@
+.mario-name{
+    color: red;
+}
+.game-name{
+    color: blue;
+}
+body{
+    margin-top:60px;
+}
+li{
+
+    font-size: 20px;
+}
